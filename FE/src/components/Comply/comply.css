@@ -1,0 +1,88 @@
+.DetailsForm{
+    border: 2px;
+    width: 80%;
+    height: fit-content;
+    padding: 20px 20px;
+    border-radius: 20px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    /* background-image: linear-gradient(to bottom right, rgb(242, 196, 252), rgb(211, 138, 245)); */
+    background-image: linear-gradient(
+    106.37deg,
+    #ffe1bc 29.63%,
+    #ffcfd1 51.55%,
+    #f3c6f1 90.85%
+  )
+}
+
+.FormTitle{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--purple);
+}
+
+.ManName{
+    margin-top: 20px;
+    text-align: left;
+    font-size: small;
+    color: var(--glass);
+}
+
+.ManAddress{
+    margin-top: 20px;
+    text-align: left;
+    color: var(--glass);
+    font-size: small;
+}
+
+.skuid{
+    margin-top: 20px;
+    text-align: left;
+    color: var(--glass);
+    font-size: small;
+}
+
+
+.btn{
+    margin-top: 45px;
+    width: 50%;
+    font-size: 27px;
+    background-color: var(--pink);
+    border-radius: 20px;
+}
+
+
+.form-label{
+    padding-top: 15px;
+    font-size: 30px;
+    text-align: left;
+    font-size: medium;
+}
+
+.form_input{
+    margin-left: 30px;
+    width: 40%;
+    size: 50px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    background-color:  rgba(249, 248, 250, 0.922);
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+.img{
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000000;
+}
+label.form-label{
+    color: #000000;
+    display: block;
+    font: 300;
+     align-items: center;
+     justify-content: center;
+     font-family: 'Inter', sans-serif;
+}
